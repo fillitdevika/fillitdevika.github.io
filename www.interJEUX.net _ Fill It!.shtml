@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+   <title>www.interJEUX.net : Fill It!</title>
+   <meta name="Classification" content="Jeux Games Divertissement">
+   <meta name="Description" content="Fill It! : fill the space and avoid collision.">
+   <meta name="KeyWords" content="Jeux, Games, free, gratuit, java, fill, it, bird, space, remplir, solitaire, play">
+<style type="text/css">
+<!--
+  body {
+    background:#000000;
+    color:#FFFFFF;
+  }
+-->
+</style>
+</head>
+
+<body>
+<basefont face="Times New Roman" size="3">
+<br><br>
+<div style="text-align:center;">
+<applet code="Fillit.class" archive="www.interJEUX.net%20_%20Fill%20It!_files/fillit.jar" height="321" width="401">
+  <param name="language" value="en">
+</applet>
+</div>
+<br>
+<p align="center">
+<font face="Arial">
+<small>Move ship with the <strong><em>cursor keys</em></strong> - and try to fill as much space as possible...</small></font></p>
+
+<p align="center"><font face="Arial"><strong><small>Fill It!</small></strong><br>
+<small>©&nbsp;1998&nbsp;<a href="mailto:ratheiser@related-designs.de">Burkhard Ratheiser</a></small><br>
+<small></small></font></p>
+
+    <script type="text/javascript" language="javascript" src="www.interJEUX.net%20_%20Fill%20It!_files/stat.js"></script>
+    <script type="text/javascript" language="javascript">document.writeln( '<img src="/php/stat.php3?name=interjeux&show=no&width=6' + info + '" width=1 height=1>');</script><img src="www.interJEUX.net%20_%20Fill%20It!_files/stat.gif" height="1" width="1">
+
+    <noscript><img src="/php/stat.php3?name=interjeux&show=no&width=6" width=1 height=1 alt=""></noscript>
+
+
+</body></html>
